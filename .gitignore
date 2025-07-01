@@ -1,9 +1,7 @@
-# Python artifacts
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Environments
 venv/
 .env
 
@@ -13,19 +11,18 @@ venv/
 activate
 *.ps1
 *.fish
+pywin32_postinstall.py
+pywin32_testall.py
 
-# Jupyter
+mlruns/
+mlfowapp.py
 .ipynb_checkpoints
 
-# VSCode
+
 .vscode/
 
-# Mac
+
 .DS_Store
 
-# Streamlit uploads directory
+
 uploads/
-
-# Model artifacts (if too large, use LFS instead)
-# saved_models/
-
