@@ -56,18 +56,18 @@ This project implements an end-to-end machine learning pipeline to predict wheth
 ### pip install -r requirements.txt
 
 ### ✅ Run the Jupyter Notebook
-### Open and execute the Assignment.ipynb file for exploratory data analysis and preprocessing.
+Open and execute the Assignment.ipynb file for exploratory data analysis and preprocessing.
 
 ### ✅ Execute the Application Scripts
 ### In your terminal or command prompt, run the following:
 
-### python server.py
-### python client.py
+ python server.py
+ python client.py
 
 
 ## For Web Interface
 ### Execute following command for flask based ui:
-### python Flas_app.py
+python Flas_app.py
 
 ### Execute following command for streamlit based ui:
-### streamlit run Streamlit_main.py
+ streamlit run Streamlit_main.py
