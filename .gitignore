@@ -18,6 +18,9 @@ mlruns/
 mlfowapp.py
 .ipynb_checkpoints
 
+creditcard.csv
+server1.py
+client1.py
 
 .vscode/
 

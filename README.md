@@ -61,8 +61,8 @@ Open and execute the Assignment.ipynb file for exploratory data analysis and pre
 ### ✅ Execute the Application Scripts
 ### In your terminal or command prompt, run the following:
 
- python server.py
- python client.py
+python server.py
+python client.py
 
 
 ## For Web Interface
