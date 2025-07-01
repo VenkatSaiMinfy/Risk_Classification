@@ -67,7 +67,7 @@ Open and execute the Assignment.ipynb file for exploratory data analysis and pre
 
 ## For Web Interface
 ### Execute following command for flask based ui:
-python Flas_app.py
+python Flask_app.py
 
 ### Execute following command for streamlit based ui:
- streamlit run Streamlit_main.py
+streamlit run Streamlit_main.py
