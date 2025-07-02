@@ -18,7 +18,6 @@ mlruns/
 mlfowapp.py
 .ipynb_checkpoints
 
-evidently_reports/
 
 creditcard.csv
 server1.py
