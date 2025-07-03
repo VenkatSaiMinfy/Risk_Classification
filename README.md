@@ -115,5 +115,4 @@ This folder contains categorized screenshots related to various stages of your M
 
 ────────────────────────────────────────────
 
-📝 Note:
-All images are timestamped based on when the screenshots were taken.
+
