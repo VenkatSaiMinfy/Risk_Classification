@@ -73,32 +73,47 @@ python Flask_app.py
 streamlit run Streamlit_main.py
 
 
-
 📁 Screenshots Directory Guide
 
 This folder contains categorized screenshots related to various stages of your ML pipeline project.
 
 ────────────────────────────────────────────
+
 📂 EDA
-  • File: Eda_and_DataProcessing.ipynb
-  • Description: This notebook outlines Exploratory Data Analysis and preprocessing steps used in the pipeline.
+• File:
+   - Eda_and_DataProcessing.ipynb
+• Description:
+   - This notebook outlines Exploratory Data Analysis and preprocessing steps used in the pipeline.
+
 ────────────────────────────────────────────
+
 📂 Flask
-  • image.png
-  • Screenshot 2025-07-03 124940.png
-  • Description: Shows the Flask app interface for file upload and predictions using trained models.
+• Files:
+   - image.png
+   - Screenshot 2025-07-03 124940.png
+• Description:
+   - Shows the Flask app interface for file upload and predictions using trained models.
+
 ────────────────────────────────────────────
+
 📂 MlFlow_and_Evidently
-  • Screenshot 2025-07-03 125028.png
-  • Screenshot 2025-07-03 125108.png
-  • Screenshot 2025-07-03 125134.png
-  • Description: MLflow UI and Evidently AI integration snapshots demonstrating experiment tracking and drift analysis.
+• Files:
+   - Screenshot 2025-07-03 125028.png
+   - Screenshot 2025-07-03 125108.png
+   - Screenshot 2025-07-03 125134.png
+• Description:
+   - MLflow UI and Evidently AI integration snapshots demonstrating experiment tracking and drift analysis.
+
 ────────────────────────────────────────────
+
 📂 Streamlit
-  • Screenshot 2025-07-03 125339.png
-  • Screenshot 2025-07-03 125414.png
-  • Description: Screenshots of the Streamlit interface built for user interaction and model prediction.
+• Files:
+   - Screenshot 2025-07-03 125339.png
+   - Screenshot 2025-07-03 125414.png
+• Description:
+   - Screenshots of the Streamlit interface built for user interaction and model prediction.
+
 ────────────────────────────────────────────
 
-📝 Note: All images are timestamped based on when the screenshots were taken.
-
+📝 Note:
+All images are timestamped based on when the screenshots were taken.
